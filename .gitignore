@@ -8,3 +8,4 @@ dist/playground_python-1.0.0.2-py3-none-any.whl
 build/lib/playground/playground.py
 build/lib/package/playground.py
 build/lib/playground/__init__.py
+*.pyc
