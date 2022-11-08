@@ -4,8 +4,8 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
     
 setup(  name='playground-python',
-        version='1.0.1.0',
-        description=long_description,
+        version='1.0.1.2',
+        long_description=long_description,
         long_description_content_type='text/markdown',
         author='BACKGWA',
         author_email='backgwa@icloud.com',
