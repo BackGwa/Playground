@@ -7,6 +7,13 @@
 
 ---
 
+## **패키지 설치**
+<br>
+
+```pip install playground-python ```
+
+---
+
 ## **라이선스**
 <br>
 
