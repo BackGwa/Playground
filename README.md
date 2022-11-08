@@ -1,5 +1,5 @@
 <br>
-<p align = 'center'><img src = 'res/Playground.png' width = '800'></p>
+<p align = 'center'><img src = 'https://github.com/BackGwa/Playground/blob/main/res/Playground.png?raw=true' width = '800'></p>
 
 <p align = 'center'><b>오직</b>  |  학생들을 위한  |  우리들을 위한  |  <b>놀이터</b></p>
 
