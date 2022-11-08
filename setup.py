@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(  name='playground-python',
-        version='1.0.0.1',
+        version='1.0.0.2',
         description='Playground는 학교와 학생을 위한 \'Python 라이브러리\' 입니다.',
         author='BACKGWA',
         author_email='backgwa@icloud.com',
@@ -10,5 +10,5 @@ setup(  name='playground-python',
         py_modules=['playground'],
         python_requires='>=3',
         install_requires=[],
-        packages=['package']
+        packages=['playground']
 )
