@@ -1,8 +1,12 @@
 from setuptools import setup, find_packages
 
+with open('README.md', encoding='utf-8') as f:
+    long_description = f.read()
+    
 setup(  name='playground-python',
-        version='1.0.0.2',
-        description='Playground는 학교와 학생을 위한 \'Python 라이브러리\' 입니다.',
+        version='1.0.1.0',
+        description=long_description,
+        long_description_content_type='text/markdown',
         author='BACKGWA',
         author_email='backgwa@icloud.com',
         url='https://github.com/BackGwa/Playground',
